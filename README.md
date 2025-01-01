@@ -1,4 +1,4 @@
-#👋 Hi, I’m Amit
+# 👋 Hi, I’m Amit
 
 ### Currently a Highschool student starting my Comp-Sci degree.
 
